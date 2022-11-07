@@ -10,5 +10,5 @@ An ontology about the astrometeorology domain, colloquially called 'space weathe
 * Donations are welcome. SEEKING patrons, sponsors, employer support, grants, funding, etc. 
 * Professors interested in applying to grants with me should contact my email below; Stuentship for this as a PhD
 
-#Rights
+# Rights
 Copyright held by author. All rights reserved.
