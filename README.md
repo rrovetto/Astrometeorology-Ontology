@@ -1,14 +1,14 @@
 # The Astrometeorology Ontology ([The Space Weather Ontology](https://github.com/rrovetto/The-Space-Weather-Ontology/blob/main/README.md))
-An ontology about space weather.
+An ontology about astrometeorology, what is colloquially called 'space weather'.
 
 ## Description
 See also the ORSD.
 
 ### Scope
-An ontology representing the domain of space weather to the extent it is a domain unto itsef. As such it will focus on weather phenomena in the astronomical environment as described by astronmers, stellar and planetary physicists, astrophysicists, etc. A causal aspect is included to provide impact on human lives and infrastructures. For long-term use and sustainability, the ontology is intended to capture generic space weather terms and concepts applicable to any stellar or planetary system, rather than only for Earth. However, given the state of space-faring activity, the target phenomena is largely focused on the near-Earth space weather environment. 
+An ontology representing the astrometeorological data and phenomena. It will focus on so-called space weather phenomena (and data thereof) in the astronomical environment as described by astronmers, stellar and planetary physicists, astrophysicists, etc. A causal aspect is included to provide impact on human lives and infrastructures. For long-term use and sustainability, the ontology is intended to capture generic space weather terms and concepts applicable to any stellar or planetary system, rather than only for Earth. However, given the state of space-faring activity, the target phenomena is largely focused on the near-Earth space weather environment. 
 
 ### Architecture
-A module, usable by itself, but also part of the author's wider astronomical environment and space situational awareness ontology suite.
+A module, usable by itself, but also part of the author's wider astronomical environment ontology, and [space domain knowledge modeling](https://purl.org/space-ontology) suite of ontologies.
 
 ### Purpose
 * To formally represent the target phenomena in a computable manner
@@ -16,6 +16,7 @@ A module, usable by itself, but also part of the author's wider astronomical env
 * To provide a semantic model for space weather data sources
 * To support data-sharing
 * To support the mitigation of hazards associated with astrometeorological phenomena
+* To support data and content search and retrieval among relevant domain content (documents, data, etc.) 
 
 ### Status
 * In-progress as circumstances permit. Subject to revision. 
